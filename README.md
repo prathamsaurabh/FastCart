@@ -1,2 +1,2 @@
 # FastCart
-an automative cart add on 
+An automative cart add on that compares prices from other brands using real time processing
